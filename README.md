@@ -1,5 +1,5 @@
 # ultrasound-resolution
-The increasing resolution of ultrasound images, including image quality assessment, generating synthetic images (image augmentation), and generating high-resolution images (generative adversarial neural networks).
+This repository has focused on a project related to the increasing resolution of ultrasound images, including evaluation image quality assessment, generating synthetic images by image augmentation, and generating high-resolution images by generative adversarial neural networks (GANs).
 For more information related to ultrasound images, please visit this [LINK](https://radiologykey.com/ultrasound-12/).
 
 ## Acknowledgment
